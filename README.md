@@ -6,4 +6,3 @@
 Заходите на наш дискорд сервер! 
 
 [![Discord](https://discordapp.com/api/guilds/712958878446256171/widget.png)](https://discord.gg/Qb7tHvw)
-
